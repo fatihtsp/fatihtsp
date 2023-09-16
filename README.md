@@ -6,7 +6,7 @@
 <br>
 <hr>
 </div>
-<br></br>
+</br>
 
 ![](https://komarev.com/ghpvc/?username=fatihtsp&style=flat-square)
 
