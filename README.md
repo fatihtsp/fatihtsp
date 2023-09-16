@@ -6,8 +6,6 @@
 </div>
 </br>  
 
-![](https://komarev.com/ghpvc/?username=fatihtsp&style=flat-square)
-
 <!--
 **fatihtsp/fatihtsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
