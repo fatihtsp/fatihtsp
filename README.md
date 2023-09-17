@@ -5,7 +5,7 @@
 <div style="display: inline_block">
 <br>
 <hr>
-</div>
+
 </br>
 
 <!--code-->
