@@ -10,7 +10,7 @@
 
 <!--code-->
 <img align="center" alt="pascal-delphi" height="30" width="30" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-128.png">
-<img align="center" alt="pascal-delphi" height="30" width="30" src="https://wiki.freepascal.org/File:Lazarus-icons-lpr-proposal-bpsoftware.png">
+<img align="center" alt="free-pascal" height="30" width="30" src="https://wiki.freepascal.org/File:Lazarus-icons-lpr-proposal-bpsoftware.png">
 <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
